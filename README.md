@@ -3,7 +3,7 @@
 
 **AkShadoww** is a ✨ _special_ ✨ repository because its `README.md` file
 
-My Name is **ANVITH KRISHNA N**. A Java Full Stack Developer
+My Name is **ANVITH KRISHNA N**.  ( Java Full Stack Developer )
 
 - 🔭 I’m currently working on "YouTube Clone"
 - 🌱 I’m currently learning SpringBoot
