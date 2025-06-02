@@ -1,9 +1,9 @@
 ## Hi there 👋
 
 
-**AkShadoww/AkShadoww** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AkShadoww** is a ✨ _special_ ✨ repository because its `README.md` file
 
-Here are some ideas to get you started:
+My Name is **ANVITH KRISHNA N**. A Java Full Stack Developer
 
 - 🔭 I’m currently working on "YouTube Clone"
 - 🌱 I’m currently learning SpringBoot
