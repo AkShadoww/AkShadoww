@@ -5,8 +5,8 @@
 
 My Name is **ANVITH KRISHNA N**.  ( Java Full Stack Developer )
 
-- 🔭 I’m currently working on "YouTube Clone"
-- 🌱 I’m currently learning SpringBoot
+- 🔭 I’m currently working on "Web Designing"
+- 🌱 I’m currently Improving in Spring Framework
 - 👯 I’m looking to collaborate on Servlet Based Projects
 - 🤔 I’m looking for help with Servlet implementation for Project-Bus Ticket Reservation 
 - 💬 About me: Results-oriented Engineering Executive with excellence in full stack web development, database management, OOP's and DSA concepts. 
