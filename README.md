@@ -1,11 +1,9 @@
 ## Hi there 👋
 
 
-**AkShadoww** is a ✨ _special_ ✨ repository because its `README.md` file
-
 My Name is **ANVITH KRISHNA N**.  ( Java Full Stack Developer )
 
-- 🔭 I’m currently working on "Web Designing"
+- 🔭 I’m currently working on "Web Application Development"
 - 🌱 I’m currently Improving in Spring Framework
 - 👯 I’m looking to collaborate on Servlet Based Projects
 - 🤔 I’m looking for help with Servlet implementation for Project-Bus Ticket Reservation 
