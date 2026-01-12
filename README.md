@@ -11,5 +11,5 @@ My Name is **ANVITH KRISHNA N**.  ( Java Full Stack Developer )
      Seeking a challenging Developer role to leverage technical expertise and drive engineering excellence. 
 - 📫 How to reach me: anvithkrishna01@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Looking For Job
+- ⚡ Fun fact: Looking for opensource contribution.
 
